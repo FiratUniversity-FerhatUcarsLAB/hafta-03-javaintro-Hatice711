@@ -1,7 +1,9 @@
-public class UcMesaj {
+public class BesKereTekrar {
     public static void main(String[] args) {
         System.out.println("Java'ya Hoş Geldin!");
-        System.out.println("Bilgisayar Bilimine Giriş");
-        System.out.println("Proglama Eğlencelidir.");
+        System.out.println("Java'ya Hoş Geldin!");
+        System.out.println("Java'ya Hoş Geldin!");
+        System.out.println("Java'ya Hoş Geldin!");
+        System.out.println("Java'ya Hoş Geldin!");
     }
 }
